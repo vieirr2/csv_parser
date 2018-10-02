@@ -3,6 +3,8 @@
 
 Displays and plots csv files from the terminal 
 
+Done at the IMPRES Workshop, "Intermediate Python Programming for Scientists" in October 2018 at the Max Planck Institute in Munich, Germany.
+
 ## Installation
 
 ```bash
